@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmProject", "AtmProject\AtmProject.csproj", "{0E711C07-D60C-4624-8E54-EBD4A6D1F10C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmLibrary", "AtmLibrary\AtmLibrary.csproj", "{02C54F06-A600-4EB5-8719-80122D2E0234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E711C07-D60C-4624-8E54-EBD4A6D1F10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E711C07-D60C-4624-8E54-EBD4A6D1F10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E711C07-D60C-4624-8E54-EBD4A6D1F10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E711C07-D60C-4624-8E54-EBD4A6D1F10C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C54F06-A600-4EB5-8719-80122D2E0234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C54F06-A600-4EB5-8719-80122D2E0234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C54F06-A600-4EB5-8719-80122D2E0234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C54F06-A600-4EB5-8719-80122D2E0234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FFE81F7-2197-4107-9DF5-2F5C41417332}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X5+Whq2synmRT+FAzK421CcekaZELh/pFwkURPVWnLaS83P+Iu1H/5YmnkxKzsUhY5fscX9PV9MJTrdkpprgRQ==",
+  "success": true,
+  "projectFilePath": "D:\\USA TEXAS\\MASTERS Completed courses\\csharp\\ISAM5430-SP20-Class-master\\AtmProject\\AtmLibrary\\AtmLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

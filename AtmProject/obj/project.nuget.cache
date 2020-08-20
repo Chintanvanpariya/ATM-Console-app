@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6loUnxILZKbNk5LNCKoB8iUQyZuFBvD+fBuhHkqVFf2B2ulo96nEk503YDaqi5lfzY+yh1NWyyDvJBNZXo5X9w==",
+  "success": true,
+  "projectFilePath": "D:\\USA TEXAS\\MASTERS Completed courses\\csharp\\ISAM5430-SP20-Class-master\\AtmProject\\AtmProject\\AtmProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus.ASUSCHINTAN5588\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\asus.ASUSCHINTAN5588\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\asus.ASUSCHINTAN5588\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\asus.ASUSCHINTAN5588\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

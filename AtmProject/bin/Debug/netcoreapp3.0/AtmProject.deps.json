@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AtmProject/1.0.0": {
+        "dependencies": {
+          "AtmLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AtmProject.dll": {}
+        }
+      },
+      "AtmLibrary/1.0.0": {
+        "runtime": {
+          "AtmLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtmProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtmLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
